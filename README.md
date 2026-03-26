@@ -59,5 +59,3 @@
 <br/>
 
 ---
-
-### ⭐️ From [mariapazmunoz](https://github.com/mariapazmunoz)
