@@ -1,6 +1,6 @@
-# Hi there, I'm María Paz ! <img width="30px" src="[https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhqbTQyZ3l3amRwb2RrMGhpbmRtbGtjM20wMWszeGtxMXhyaGJiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif)" />
+# Hi there, I'm María Paz ! <img width="30px" src="[https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif]" />
 
-<img align="right" alt="GIF" height="160px" src=[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhqbTQyZ3l3amRwb2RrMGhpbmRtbGtjM20wMWszeGtxMXhyaGJiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NytMLKyiaIh6VH9SPm/giphy.gif]" />
+<img align="right" alt="GIF" height="160px" src=[https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif]" />
 
 ## I'm a Engineering Student with specialitation on Computer Science (and industrial)
 
