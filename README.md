@@ -45,19 +45,4 @@
 
 ---
 
-<h2 align="center">GitHub Statistics 📈</h2>
-
-<div align="center"> 
-  <a href="https://github.com/mariapazmunoz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariapazmunoz&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-  </a>
-  <a href="https://github.com/mariapazmunoz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariapazmunoz&theme=react&line_height=40&hide=css" />
-  </a>
-</div>
-
-<br/>
-
----
-
 ## Thanks for visiting my profile, good day!!
