@@ -1,4 +1,4 @@
-# Hi there, I'm María Paz! <img width="30px" src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" />
+# Hi there, I'm María Paz!
 
 <img align="right" alt="GIF" height="160px" src="https://substackcdn.com/image/fetch/$s_!m-aA!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1c43b3fc-11ef-4d41-a972-dd01dd66b424_480x360.gif" />
 
@@ -21,7 +21,7 @@
 
 ### Contact with me 📝
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn- María%20Paz%20Muñoz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mariapazmunoz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mar%C3%ADa%20Paz%20Mu%C3%B1oz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mariapazmunoz)
 
 ---
 
@@ -59,3 +59,5 @@
 <br/>
 
 ---
+
+## Thanks for visiting my profile, good day!!
