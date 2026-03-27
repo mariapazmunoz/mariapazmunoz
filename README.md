@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-playing-7z66.onrender.com/api/spotify.svg?v=2)](https://open.spotify.com/user/xlmxw)
+[![Spotify](https://spotify-playing-7z66.onrender.com/api/spotify.svg)](https://open.spotify.com/user/xlmxw)
 
 ---
 
