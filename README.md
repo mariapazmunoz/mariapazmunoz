@@ -4,9 +4,10 @@
 
 ## I'm an Engineering student specializing in Computer Science and Industrial Engineering
 
-- 👩🏻‍💻 I’m currently working on Python projects involving APIs, data analysis, and process optimization.
-- 📚 I’m currently learning more about backend technologies, testing, and data applications.
-- 🌱 Future Goals: Keep growing as an engineer and create technology with real impact.
+- 👩🏻‍💻 I enjoy using technology to turn data and ideas into practical solutions through projects involving Python, APIs, data analysis, data mining, and process optimization.
+- 📊 I’m especially passionate about data analysis, data mining, quality, and continuous improvement, and how they can help make systems smarter, more efficient, and more reliable :)
+- 💻 I’m currently strengthening my backend and testing skills, while also improving my Java to build more visual and complete applications.
+- 🌱 My goal is to keep growing as an engineer and create technology with real impact on people and organizations.
 - ⚡ Fun fact: I love cats, nature, sudoku, and a good beer.
 
 ---
@@ -27,18 +28,28 @@
 
 ### Languages and Tools 🛠
 
+### Languages and Tools 🛠
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)
 ![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=ffffff)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=ffffff)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=ffffff)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=ffffff)
+![Gurobi](https://img.shields.io/badge/-Gurobi-EE3524?style=flat-square&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)
 ![Overleaf](https://img.shields.io/badge/-Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=ffffff)
 
 <br/>
