@@ -18,15 +18,13 @@
 
 [![Spotify](https://spotify-playing-7z66.onrender.com/api/spotify.svg?v=52)](https://open.spotify.com/user/xlmxw)
 
----
+PS: If the current song image is not available, wait a few seconds and it should appear 🤩
 
 ### Contact with me 📝
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mar%C3%ADa%20Paz%20Mu%C3%B1oz-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mariapazmunoz)
 
 ---
-
-### Languages and Tools 🛠
 
 ### Languages and Tools 🛠
 
