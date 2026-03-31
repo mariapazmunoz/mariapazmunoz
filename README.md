@@ -18,7 +18,7 @@
 
 [![Spotify](https://spotify-playing-7z66.onrender.com/api/spotify.svg?v=52)](https://open.spotify.com/user/xlmxw)
 
-PS: If the current song image is not available, wait a few seconds and it should appear 🤩
+PS: If the current song image is not available, F4, wait a few seconds and it should appear 🤩
 
 ### Contact with me 📝
 
